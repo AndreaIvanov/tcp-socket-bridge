@@ -1,4 +1,4 @@
-# TCP Socket Bridge: Architettura Client-Server in Python
+# 🚀 TCP Socket Bridge: Architettura Client-Server in Python
 ### Relazione Tecnica Integrata - Sistemi e Reti
 
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
@@ -67,4 +67,3 @@ L'implementazione mette in risalto tre caratteristiche fondamentali del protocol
 
 ---
 **Sviluppatore:** Andrea Ivanov 
-**Materia:** Sistemi e Reti
